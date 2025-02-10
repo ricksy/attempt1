@@ -1,4 +1,4 @@
- Bluesky Bot:butterfly:
+ Bluesky Bot :butterfly:
  ------------
 
 This is an example right out the the [documentation](https://docs.bsky.app/docs/get-started) onhow to use a python client to post to bluesky social network.
